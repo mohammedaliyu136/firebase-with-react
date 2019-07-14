@@ -1,3 +1,6 @@
-cd firebase-with-react
-npm install
-npm start
+
+```sh
+$ cd firebase-with-react
+$ npm install
+$ npm start
+```
